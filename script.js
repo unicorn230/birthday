@@ -17,7 +17,7 @@ const changeYear = function(){
 }
 
 const TheDate = {
-    dateValue: new Date('Aug 12, 2022 00:00:00').getTime(),
+    dateValue: new Date('May 13, 2022 00:00:00').getTime(),
     daysLeft: 1,
     hoursLeft: 1,
     minutesLeft: 1,
